@@ -14,7 +14,7 @@ son registrados por la agencia y se le asigna una oferta de empleo que se encuen
 # Página Web
 La página web se encuentra alojada en un servidor gratuito y esta programada completamente en Flutter - Dart. Para el manejo de la persistencia de datos se implementó la metodologia de MVC (Modelo-Vista-Controlador).
 
- El proyecto se encuentra alojado en [PaginaWebRepositorio]()
+ El proyecto se encuentra alojado en [PaginaWebRepositorio](https://github.com/CStevenO/proyecto_web_frontEnd)
  
  ## Conexión
  En la carpeta controladores se encuentra la conexión a la API pero ya que posee información delicada se agrego al archivo .gitignore. Ese archivo contine la clase abstracta de Crud la cual es implementada por todos los archivos controller.gitignore
